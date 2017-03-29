@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "635745467",
+    "firebase_url": "https://fireapp-c36f3.firebaseio.com",
+    "project_id": "fireapp-c36f3",
+    "storage_bucket": "fireapp-c36f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635745467:android:30cea63f2732a408",
+        "android_client_info": {
+          "package_name": "com.bbli.nikki.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635745467-bv3jari73sdhe0aqgpo9rv4it98opja9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfcRwVIdtC1TnPnbENJSVfGQ7lKzk-YCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
